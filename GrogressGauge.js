@@ -146,5 +146,5 @@ var getScriptPromisify = (src) => {
     }
   }
 
-  customElements.define('com-sap-sample-echarts-Grogress_Gauge', GrogressGauge)
+  customElements.define('com-sap-sample-echarts-grogress_gauge', GrogressGauge)
 })()
